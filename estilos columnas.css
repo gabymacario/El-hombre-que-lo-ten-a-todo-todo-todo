@@ -1,0 +1,90 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+header {
+    display: flex;
+    align-items: center;
+    background-color: #2c3e50;
+    color: white;
+    padding: 7px;
+    text-align: center;
+}
+footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+nav {
+    background-color: #34495e;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type:circle;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav ul  a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul x a:hover {
+    color: #f39c12;
+}
+    .btn{
+        width: 305px;
+        height: 70px;
+        background-color:#ADB2EB;
+        font-family: Info story;
+        position: relative;
+        left:210px;
+        position: relative;top: 100;
+    border-style: dotted;
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+border-right: none;}
+    
+    
+.img{ position: relative;top: 3px; position: relative;left: 60px; border-radius: 20px;}
+   .img1{ position: relative;top: 3px; position: relative;left: 150px; border-radius: 20px;}
+   .img2{ position: relative;top: 3px; position: relative;left: 290px; border-radius: 20px;}
+   .img3{ position: relative;bottom: 25px; border-radius: 20px;}
+   .img4{ position: relative;top: 3px; position: relative;left: 100px; border-radius: 20px;}
+   .img5{ position: relative;top: 3px; position: relative;left: 120px; border-radius: 20px;}
+   .img6{ position: relative;top: 3px; position: relative;left: 140px; border-radius: 20px;}
+   .quienes{background-color: #4b6988;
+    width: 300px; height: 600px;
+    position: relative;top: 100px;
+    color: rgba(255, 255, 255, 0.877);}
+    .inicios {background-color: #4b6988;
+        width: 645px; height: 600px;
+        position: relative;bottom: 520px; position:relative; left:310px;
+        color: rgb(255, 255, 255);}
+        .nombre {background-color: #4b6988;
+            width: 300px; height: 600px;
+            position: relative;bottom:1140px; position:relative; left: 975px; color: rgb(255, 255, 255);}
+.cuadro { position: relative;
+left: 220px;}
+
+        
+            
